@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- 
 
 dpsf  = open('dps', 'r', encoding='utf-8')
 # dpsf = open('dps','r',encoding='utf8')
@@ -26,7 +28,5 @@ for line in urlsf:
     urlsl.append(line.strip())
 for line in wbcsf:
     wbcsl.append(line.strip())
-
 for i in range(0, 104):
-    print(namesl[i].strip(), '|', opsl[i], '|', dpsl[i], '|', wbcsl[i], '|', img_urlsl[i], '|', urlsl[i])
-print(len(dpsl),len(img_urlsl),len(namesl),len(opsl),len(urlsl),len(wbcsl))
+    print(namesl[i].strip(), '|', opsl[i], '￥', '|', dpsl[i], '￥', '|', wbcsl[i], '|', '[商品图片](', img_urlsl[i], ')', '|', '[商品地址](', urlsl[i], ')|')
