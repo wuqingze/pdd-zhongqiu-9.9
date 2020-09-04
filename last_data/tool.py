@@ -16,6 +16,16 @@ opsl = []
 urlsl = []
 wbcsl = []
 
+def trans_wbcs(wbc):
+    if None == wbc or '' == wbc.strip():
+        return ''
+
+    if '万' in wbc:
+        t = wbc.split('万')
+        return int(float(t[0])*10000)
+    else:
+        return int(float(wbc))
+
 for line in dpsf:
     dpsl.append(line.strip())
 for line in img_urlsf:
@@ -29,4 +39,4 @@ for line in urlsf:
 for line in wbcsf:
     wbcsl.append(line.strip())
 for i in range(0, 104):
-    print(namesl[i].strip(), '|', opsl[i], '￥', '|', dpsl[i], '￥', '|', wbcsl[i], '|', '[商品图片](', img_urlsl[i], ')', '|', '[商品地址](', urlsl[i], ')|')
+    print(namesl[i].strip(), '|', opsl[i], '￥', '|', dpsl[i], '￥', '|', trans_wbcs(wbcsl[i]), '|', '[商品图片](', img_urlsl[i], ')', '|', '[商品地址](', urlsl[i], ')|')
