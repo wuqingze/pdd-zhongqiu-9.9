@@ -1,6 +1,6 @@
 ###  Introduction
 ---------------------------------------
-拼多多在今年(2020年)搞了个9.9秒杀活动![活动主页](./imgs/pdd-9.9.png),在商品详情页
+拼多多在今年(2020年)搞了个9.9元[秒杀活动](https://mobile.yangkeduo.com/pincard_appointment_buy.html?type=39&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&_pdd_nc=1D0A42&subject_id=170828195525&refer_page_sn=64351&refer_page_el_sn=3594858&refer_page_name=luxury_spike&com_type=7&refer_page_id=64351_1599218237529_unbficyrg3&_x_share_id=7w3gqdrutsr1ns1g068xepflpmn6hilo)![活动主页](./imgs/pdd-9.9.png),在商品详情页
 ![商品详情页](./imgs/pdd-9.9-goods.png)我们可以看到消费者的’想买数量',
 我突然对拼多多上面的消费者商品喜好产生了兴趣，因此开发了本项目pdd-zhongqiu-9.9提供
 了对拼多多秒杀活动中关于热门商品名、原价、秒杀价、想买人数等字段的降序排序统计。                                                                                                   | 商品图片                                                                                                                                                   | 商品地址 |
