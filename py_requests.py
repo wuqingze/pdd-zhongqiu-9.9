@@ -1,9 +1,8 @@
 import requests
 import threading
 
-urls = {
+urls = [
     'https://mobile.yangkeduo.com/pincard_appointment_buy.html?type=39&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&_pdd_nc=1D0A42&subject_id=168990652045',
-    'https://mobile.yangkeduo.com/spike.html?_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&_pdd_nc=ffffff&__rp_name=spike_super_list&spike_channel=99cmldy',
     'https://mobile.yangkeduo.com/pincard_appointment_buy.html?type=39&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&_pdd_nc=1D0A42&subject_id=170828195525',
     'https://mobile.yangkeduo.com/pincard_appointment_buy.html?type=39&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&_pdd_nc=1D0A42&subject_id=170470818131',
     'https://mobile.yangkeduo.com/pincard_appointment_buy.html?type=39&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&_pdd_nc=1D0A42&subject_id=120910437168',
@@ -106,7 +105,7 @@ urls = {
     'https://mobile.yangkeduo.com/pincard_appointment_buy.html?type=39&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&_pdd_nc=1D0A42&subject_id=170089837075',
     'https://mobile.yangkeduo.com/pincard_appointment_buy.html?type=39&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&_pdd_nc=1D0A42&subject_id=171543855464',
     'https://mobile.yangkeduo.com/pincard_appointment_buy.html?type=39&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&_pdd_nc=1D0A42&subject_id=172483922811'
-}
+]
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
@@ -131,9 +130,21 @@ def process(url):
     f.close()
     print(cnt, response)
     cnt += 1
+def process_01(url):
+    global cnt
+    response = requests.get(url, headers=headers)
+    cs = response.content.decode().split('<div class="_1iNPKhpv">')
+    if len(cs) == 2:
+        cs = cs[1][0:64]
+    else:
+        cs = ""
+    print(cnt, cs)
+    cnt += 1
+
 
 for url in urls:
-    process(url)
+    #process(url)
+    process_01(url)
 #    t = threading.Thread(target=process, args=(url,))
 #    t.start()
 
