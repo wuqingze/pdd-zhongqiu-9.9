@@ -124,12 +124,13 @@ def process(url):
     print(url)
     response = requests.get(url, headers=headers)
     #path = './urls-response/'+str(cnt)
-    path = './urls-response/'+fix(cnt)
+    path = './urls-response/data/'+fix(cnt)
     f = open(path, 'w')
     f.write(response.content.decode())
     f.close()
     print(cnt, response)
     cnt += 1
+
 def process_01(url):
     global cnt
     response = requests.get(url, headers=headers)
@@ -143,8 +144,8 @@ def process_01(url):
 
 
 for url in urls:
-    #process(url)
-    process_01(url)
+    process(url)
+#    process_01(url)
 #    t = threading.Thread(target=process, args=(url,))
 #    t.start()
 

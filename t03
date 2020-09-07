@@ -1,0 +1,1247 @@
+          "displayName": "inject-with-store(VirtualNav)"
+        },
+        "fetched": true
+      },
+      {
+        "key": "Image",
+        "componentId": "p-w8Lvp4vwA",
+        "name": "图片",
+        "store": {
+          "nickName": "五菱宏光8.2",
+          "isInFS": true,
+--
+          "counterLeft": 0,
+          "useTimeCounter": false,
+          "styleType": 0,
+          "periodFunc": "open",
+          "height": 143,
+          "key": "Image",
+          "componentId": "p-w8Lvp4vwA",
+          "_isInitScreen": true
+        },
+        "requestIn": "firstScreen",
+        "fetched": true
+      },
+      {
+        "key": "Image",
+        "componentId": "p-5pr7YykVp",
+        "name": "图片",
+        "store": {
+          "nickName": "跳转banner8.3",
+          "isInFS": true,
+--
+              "startTime": 1596211200000,
+              "endTime": 1596470399000
+            }
+          ],
+          "usePeriod": true,
+          "key": "Image",
+          "componentId": "p-5pr7YykVp",
+          "_isInitScreen": true
+        },
+        "requestIn": "firstScreen",
+        "fetched": true
+      },
+      {
+        "key": "Image",
+        "componentId": "p-VM66Jnzy6",
+        "name": "图片",
+        "store": {
+          "nickName": "费列罗8.16",
+          "isInFS": true,
+--
+          "conuterTop": 0,
+          "counterLeft": 0,
+          "useTimeCounter": false,
+          "styleType": 0,
+          "height": 143,
+          "key": "Image",
+          "componentId": "p-VM66Jnzy6",
+          "_isInitScreen": true
+        },
+        "requestIn": "firstScreen",
+        "fetched": true
+      },
+      {
+        "key": "Image",
+        "componentId": "p-R9YMoXLGQ",
+        "name": "图片",
+        "store": {
+          "nickName": "大宅蟹8.16",
+          "isInFS": true,
+--
+          "conuterTop": 0,
+          "counterLeft": 0,
+          "useTimeCounter": false,
+          "styleType": 0,
+          "height": 143,
+          "key": "Image",
+          "componentId": "p-R9YMoXLGQ",
+          "_isInitScreen": true
+        },
+        "requestIn": "firstScreen",
+        "fetched": true
+      },
+      {
+        "key": "Image",
+        "componentId": "p-zPJL8MzX3",
+        "name": "图片",
+        "store": {
+          "nickName": "美心8.16",
+          "isInFS": true,
+--
+          "conuterTop": 0,
+          "counterLeft": 0,
+          "useTimeCounter": false,
+          "styleType": 0,
+          "height": 143,
+          "key": "Image",
+          "componentId": "p-zPJL8MzX3",
+          "_isInitScreen": true
+        },
+        "requestIn": "firstScreen",
+        "fetched": true
+      },
+      {
+        "key": "Image",
+        "componentId": "p-2Ba8Q5P9l",
+        "name": "图片",
+        "store": {
+          "nickName": "华为手机8.16",
+          "isInFS": true,
+--
+            {
+              "startTime": 1595855999000,
+              "endTime": 1595855999000
+            }
+          ],
+          "key": "Image",
+          "componentId": "p-2Ba8Q5P9l",
+          "_isInitScreen": true
+        },
+        "requestIn": "firstScreen",
+        "fetched": true
+      },
+      {
+        "key": "Image",
+        "componentId": "p-8AmWE5Ymw",
+        "name": "图片",
+        "store": {
+          "nickName": "iPhone118.16",
+          "isInFS": true,
+--
+          "counterLeft": 0,
+          "useTimeCounter": false,
+          "styleType": 0,
+          "periodFunc": "open",
+          "height": 143,
+          "key": "Image",
+          "componentId": "p-8AmWE5Ymw",
+          "_isInitScreen": true
+        },
+        "requestIn": "firstScreen",
+        "fetched": true
+--
+        },
+        "requestIn": "firstScreen",
+        "fetched": true
+      },
+      {
+        "key": "Image",
+        "componentId": "p-ar7k7pa1E",
+        "name": "图片",
+        "store": {
+          "nickName": "airpodsPro8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-lPvMAXJ92",
+        "name": "图片",
+        "store": {
+          "nickName": "品牌笔记本8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-pGq2omJkW",
+        "name": "图片",
+        "store": {
+          "nickName": "任天堂8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-VLj42DkJe",
+        "name": "图片",
+        "store": {
+          "nickName": "乐高布加迪8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-B9oDmGrwB",
+        "name": "图片",
+        "store": {
+          "nickName": "智能手表8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-2Yl2Q6o6M",
+        "name": "图片",
+        "store": {
+          "nickName": "kindle8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-bl76kP5kq",
+        "name": "图片",
+        "store": {
+          "nickName": "电视机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-oWnkwnVzJ",
+        "name": "图片",
+        "store": {
+          "nickName": "洗衣机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-68NQ7azD8",
+        "name": "图片",
+        "store": {
+          "nickName": "扫地机器人8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-Pr8lRRpPW",
+        "name": "图片",
+        "store": {
+          "nickName": "冰箱8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-kZNyb1Own",
+        "name": "图片",
+        "store": {
+          "nickName": "话费8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-bGLXb3Pmp",
+        "name": "图片",
+        "store": {
+          "nickName": "多功能锅8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-K6AW18Pyy",
+        "name": "图片",
+        "store": {
+          "nickName": "电饭锅8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-jjb27V9kA",
+        "name": "图片",
+        "store": {
+          "nickName": "面条机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-b29NVeE9z",
+        "name": "图片",
+        "store": {
+          "nickName": "养生壶8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-9Aw26PY24",
+        "name": "图片",
+        "store": {
+          "nickName": "破壁机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-Yj8a63w52",
+        "name": "图片",
+        "store": {
+          "nickName": "电饼铛8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-pmy25pWEO",
+        "name": "图片",
+        "store": {
+          "nickName": "口红8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-j2WlJqQWD",
+        "name": "图片",
+        "store": {
+          "nickName": "键盘8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-j2jN2V7jD",
+        "name": "图片",
+        "store": {
+          "nickName": "跑步机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-K9e1OyY2G",
+        "name": "图片",
+        "store": {
+          "nickName": "坚果礼8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-NVvbR3ezl",
+        "name": "图片",
+        "store": {
+          "nickName": "沙发8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-9XWEZaBK4",
+        "name": "图片",
+        "store": {
+          "nickName": "洗鞋机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-LMjWBVL6l",
+        "name": "图片",
+        "store": {
+          "nickName": "洗车机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-Raa7WZqzD",
+        "name": "图片",
+        "store": {
+          "nickName": "车载冰箱8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-XbMlNVnBP",
+        "name": "图片",
+        "store": {
+          "nickName": "电风8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-R9BkowOb2",
+        "name": "图片",
+        "store": {
+          "nickName": "电动剃须刀8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-GXApbKRJE",
+        "name": "图片",
+        "store": {
+          "nickName": "投影仪8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-yZ4zXm591",
+        "name": "图片",
+        "store": {
+          "nickName": "电动车8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-PMEjP92Ge",
+        "name": "图片",
+        "store": {
+          "nickName": "平衡车8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-njEl1vBpN",
+        "name": "图片",
+        "store": {
+          "nickName": "工具箱8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-qlBznmo47",
+        "name": "图片",
+        "store": {
+          "nickName": "小米8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-WlZNAqk1e",
+        "name": "图片",
+        "store": {
+          "nickName": "vivo手机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-YYjNLQKO2",
+        "name": "图片",
+        "store": {
+          "nickName": "oppo手机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-4OPmAkklb",
+        "name": "图片",
+        "store": {
+          "nickName": "鞋柜8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-6YREZKLB2",
+        "name": "图片",
+        "store": {
+          "nickName": "躺椅8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-nQAKYEn1w",
+        "name": "图片",
+        "store": {
+          "nickName": "吊篮8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-mK6p4y26P",
+        "name": "图片",
+        "store": {
+          "nickName": "无人机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-O6B6YKLR4",
+        "name": "图片",
+        "store": {
+          "nickName": "四件套8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-LMaRDL5n2",
+        "name": "图片",
+        "store": {
+          "nickName": "行车记录仪8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-nyz4XklOa",
+        "name": "图片",
+        "store": {
+          "nickName": "打印机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-8W5W436GO",
+        "name": "图片",
+        "store": {
+          "nickName": "气垫床8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-O1Ebl5yE4",
+        "name": "图片",
+        "store": {
+          "nickName": "置物架8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-K9kbN4NDG",
+        "name": "图片",
+        "store": {
+          "nickName": "钓鱼竿8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-b2QDGoQMw",
+        "name": "图片",
+        "store": {
+          "nickName": "茶具套装8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-yZw9rMY5O",
+        "name": "图片",
+        "store": {
+          "nickName": "水果8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-eAN6pDLRl",
+        "name": "图片",
+        "store": {
+          "nickName": "安慕希8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-pB8NOmQ1A",
+        "name": "图片",
+        "store": {
+          "nickName": "啤酒8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-JN2QnOZQV",
+        "name": "图片",
+        "store": {
+          "nickName": "洗衣液8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-rlpAPBMZK",
+        "name": "图片",
+        "store": {
+          "nickName": "抽纸816",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-Gey7lvvo5",
+        "name": "图片",
+        "store": {
+          "nickName": "整箱饮料8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-1l7ZMMWjw",
+        "name": "图片",
+        "store": {
+          "nickName": "网红素食8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-GeOr4eAw8",
+        "name": "图片",
+        "store": {
+          "nickName": "雪糕8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-7mBGqEM7b",
+        "name": "图片",
+        "store": {
+          "nickName": "汽车坐垫8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-Ql9kneVaq",
+        "name": "图片",
+        "store": {
+          "nickName": "实木桌椅8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-KN45aLD6l",
+        "name": "图片",
+        "store": {
+          "nickName": "品牌面霜8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-Ppo1LqGGj",
+        "name": "图片",
+        "store": {
+          "nickName": "大疆云台8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-DWEzmavn3",
+        "name": "图片",
+        "store": {
+          "nickName": "切割机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-AKezlyoJv",
+        "name": "图片",
+        "store": {
+          "nickName": "迪士尼8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-kkvD9rnww",
+        "name": "图片",
+        "store": {
+          "nickName": "子母床8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-wWeQ4oNZa",
+        "name": "图片",
+        "store": {
+          "nickName": "按摩仪8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-NXv17aEDY",
+        "name": "图片",
+        "store": {
+          "nickName": "智能音响8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-B2n4YoJzl",
+        "name": "图片",
+        "store": {
+          "nickName": "衣柜8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-AoAAzAoVk",
+        "name": "图片",
+        "store": {
+          "nickName": "牛排8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-JNQPNLEM9",
+        "name": "图片",
+        "store": {
+          "nickName": "手办8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-oeJjEGwrA",
+        "name": "图片",
+        "store": {
+          "nickName": "王者荣耀8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-LrkvVevE2",
+        "name": "图片",
+        "store": {
+          "nickName": "儿童手表8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-KX3ay7MWN",
+        "name": "图片",
+        "store": {
+          "nickName": "jk制服8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-JNWVEBjQJ",
+        "name": "图片",
+        "store": {
+          "nickName": "香水8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-lPz3qaJ6n",
+        "name": "图片",
+        "store": {
+          "nickName": "手链8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-w2B1qMb4q",
+        "name": "图片",
+        "store": {
+          "nickName": "薯片8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-MGqpBmMGK",
+        "name": "图片",
+        "store": {
+          "nickName": "微耕机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-vAZwYbNaY",
+        "name": "图片",
+        "store": {
+          "nickName": "抱枕8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-aVPz7Xj9X",
+        "name": "图片",
+        "store": {
+          "nickName": "面膜8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-8A326P9RA",
+        "name": "图片",
+        "store": {
+          "nickName": "卫生间8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-EV86oBqVN",
+        "name": "图片",
+        "store": {
+          "nickName": "冰丝睡衣8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-WkrrJ6MPj",
+        "name": "图片",
+        "store": {
+          "nickName": "显卡8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-jj8nQ5bXY",
+        "name": "图片",
+        "store": {
+          "nickName": "冰淇淋机8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-qoml7VQM7",
+        "name": "图片",
+        "store": {
+          "nickName": "碗碟8.16",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-RLD5N1D9D",
+        "name": "图片",
+        "store": {
+          "nickName": "MAC高光9.01",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-EeRqzN93N",
+        "name": "图片",
+        "store": {
+          "nickName": "YSL唇釉9.01",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-N1K3Qvw7w",
+        "name": "图片",
+        "store": {
+          "nickName": "YSL小银管9.01",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-Wk3APw7PW",
+        "name": "图片",
+        "store": {
+          "nickName": "菲洛嘉面膜9.01",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-78AyqXO2b",
+        "name": "图片",
+        "store": {
+          "nickName": "纪梵希小羊皮9.01",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-K6Z2K9wAy",
+        "name": "图片",
+        "store": {
+          "nickName": "欧诗漫套装9.01",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-wrK5Pv58n",
+        "name": "图片",
+        "store": {
+          "nickName": "欧缇丽套装9.01",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-68Kb7J5pL",
+        "name": "图片",
+        "store": {
+          "nickName": "祖马龙香水9.01",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-zy5PYW5RL",
+        "name": "图片",
+        "store": {
+          "nickName": "燕窝9.6",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-K6vQReVOl",
+        "name": "图片",
+        "store": {
+          "nickName": "阿胶9.6",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-ZDMPWPj7v",
+        "name": "图片",
+        "store": {
+          "nickName": "潮鞋9.6",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-2qybGLRXv",
+        "name": "图片",
+        "store": {
+          "nickName": "华为nova9.6",
+          "log": {
+--
+          "isInFS": false
+        },
+        "requestIn": "exposure"
+      },
+      {
+        "key": "Image",
+        "componentId": "p-9Wv4MOYaR",
+        "name": "图片",
+        "store": {
+          "nickName": "华为平板9.6",
+          "log": {
